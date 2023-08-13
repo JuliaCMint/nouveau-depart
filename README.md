@@ -25,7 +25,6 @@ https://nouveau-depart.netlify.app/
 
 #### PREVIEW
 
-![screenshot-nouveau-depart](https://github.com/JuliaCMint/nouveau-depart/assets/105377899/f5d5e318-c14a-4a8a-9f5e-b2bd03319547)
-
+![screenshot-nouveau-depart netlify app-2023 06 28-15_41_05](https://github.com/JuliaCMint/nouveau-depart/assets/105377899/b11404a5-ec00-4b87-82fd-17cfbf096f75)
 
 
